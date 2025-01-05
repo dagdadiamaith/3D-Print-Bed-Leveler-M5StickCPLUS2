@@ -1,3 +1,9 @@
+The OmniLevel_3Dprint_leveler_Cplus2 of this BRANCH contains the adapted code for MStickCPLUS2
+As I am not a top notch programmer anymore, I used Chat-GPT to make the job.
+Thank you Dominick for all the initial work :-D
+Dagdadiamaith
+
+
 # OmniLevel: 3D Print Bed Leveler
 A tool that helps makers and professionals level their FDM-based 3D Print Bed
 
